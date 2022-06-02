@@ -89,6 +89,7 @@ params:
   # 8. If the project was moved from the Middleman site to Hugo, the
   #    `archived_url` is the URL to the newest of the deprecated pages.  
   #    `archived_url` is optional.
+  contact_us_url: "https://www.tiot.jp/en/about-us/contact-us/"
   project_descriptions:
     riak_kv:
       project_name: "Riak KV"
