@@ -34,6 +34,11 @@ This release contains stability, monitoring and performance improvements.
 
 * More time is now given to the legacy AAE kv_index_hashtree process to shut down, to handle delays as multiple vnodes are shutdown concurrently and contend for disk and CPU resources.
 
+**Note**
+
+Riak KV 3.0.9 is the last version that will support Amazon Graviton CPU's until KV version 3.2.0 onwards.
+
+
 ## Previous Release Notes
 
 Please see the KV 3.0.8 release notes [here]({{<baseurl>}}riak/kv/3.0.8/release-notes/).
